@@ -2,7 +2,7 @@ if game.PlaceId == 6516141723 or game.PlaceId == 6839171747 then
 
 local library = loadstring(game:HttpGet("https://pastebin.com/raw/HwGSKVRF", true))()
 
-local main = library:Load({Name = "Snake Hub", Theme = "Dark", SizeX = 440, SizeY = 480, ColorOverrides = {}})
+local main = library:Load({Name = "Statueware", Theme = "Dark", SizeX = 440, SizeY = 480, ColorOverrides = {}})
 local aimbot = main:Tab("DOORS")
 local section = aimbot:Section({Name = "Main", column = 1})
 
